@@ -1,0 +1,6 @@
+@MiniPuanApi_HostAddress = http://localhost:5285
+
+GET {{MiniPuanApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
